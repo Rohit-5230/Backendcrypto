@@ -1,8 +1,8 @@
-# backendcrypto
-<br>
+Backendcrypto
+=
 Backendcrypto is backend part of one of my project. Basically it hold all the database of my project. 
 
-# Dependencies
+Dependencies
 =
 - flask==0.12.2
 - flask_restful==0.3.6
@@ -14,9 +14,18 @@ Backendcrypto is backend part of one of my project. Basically it hold all the da
 - marshmallow-sqlalchemy==0.13.2
 - psycopg2==2.7.3.2
 
-# features
-<br>
+Features
+=
 - RESTful API 
 - Model schema
 
-#
+I have some questions!
+=
+please visit https://github.com/Rohit-5230/backendcrypto/issues
+
+Contacts
+=
+- Email: indian5230@gmail.com
+- Linkedin: https://www.linkedin.com/in/rohit-kumar-singh-657649165/
+- Twitter: https://twitter.com/RohitKu78173772
+
