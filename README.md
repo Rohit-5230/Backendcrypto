@@ -3,7 +3,7 @@
 Backendcrypto is backend part of one of my project. Basically it hold all the database of my project. 
 
 # Dependencies
-<br>
+=
 - flask==0.12.2
 - flask_restful==0.3.6
 - flask_script==2.0.6
