@@ -2,6 +2,10 @@ Backendcrypto
 =
 Backendcrypto is backend part of one of my project. Basically it hold all the database of my project. 
 
+Languages
+=
+- Python
+
 Dependencies
 =
 - flask==0.12.2
